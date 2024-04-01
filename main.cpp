@@ -10,13 +10,13 @@
 using namespace std;
 
 int WinMain() {
+/*
     string file = "TextFiles/test";
     GiveWordValues(file);
     SortWords(file);
     RemoveNums(file);
-
-
-    //InputOutput("TextFiles/nytValues.txt");
+*/
+    InputOutput("TextFiles/nytValues.txt");
 
     return 0;
 }
